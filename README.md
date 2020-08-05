@@ -1,8 +1,13 @@
 ### Hi there 👋
-[![Triona's github stats](https://github-readme-stats.vercel.app/api?username=tmoyni)](https://github.com/tmoyni/github-readme-stats)
-
-
 - 🌱 I’m currently learning Vue.js
+
+
+
+[![Triona's github stats](https://github-readme-stats.vercel.app/api?username=tmoyni)](https://github.com/tmoyni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 <!--
