@@ -5,9 +5,11 @@ I'm Triona Moynihan and I am a New York City based full-stack developer with des
   <a href="https://www.linkedin.com/in/trionamoynihan/">
   <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 </div>
+<br>
 
 - 🌱 I’m currently learning Vue.js
 
+<br>
 
 
 [![Triona's github stats](https://github-readme-stats.vercel.app/api?username=tmoyni)](https://github.com/anuraghazra/github-readme-stats)
