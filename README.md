@@ -3,6 +3,8 @@ I'm Triona Moynihan and I am a New York City based full-stack developer with 7+ 
 <br>
 
 - 🌱 I’m currently learning Vue.js
+<br>
+
 
 <div>
   <a href="https://www.linkedin.com/in/trionamoynihan/">
