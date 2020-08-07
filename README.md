@@ -11,10 +11,10 @@ I'm Triona Moynihan and I am a New York City based full-stack developer with 7+ 
 
 <br>
 
-<div>
+<p>
   [![Triona's github stats](https://github-readme-stats.vercel.app/api?username=tmoyni)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmoyni)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</p>
 
 
 
