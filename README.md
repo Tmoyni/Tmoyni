@@ -1,5 +1,8 @@
 ### Triona Moynihan - @Tmoyni 👋
 I'm Triona Moynihan and I am a New York City based full-stack developer with 7+ years of design experience.
+<br>
+
+- 🌱 I’m currently learning Vue.js
 
 <div>
   <a href="https://www.linkedin.com/in/trionamoynihan/">
@@ -7,9 +10,7 @@ I'm Triona Moynihan and I am a New York City based full-stack developer with 7+ 
 </div>
 <br>
 
-- 🌱 I’m currently learning Vue.js
 
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmoyni)](https://github.com/anuraghazra/github-readme-stats)
 [![Triona's github stats](https://github-readme-stats.vercel.app/api?username=tmoyni)](https://github.com/anuraghazra/github-readme-stats)
