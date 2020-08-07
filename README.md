@@ -2,7 +2,7 @@
 I'm Triona Moynihan and I am a New York City based full-stack developer with design experience.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/timoliverau/">
+  <a href="https://www.linkedin.com/in/trionamoynihan/">
 </p>
 
 - 🌱 I’m currently learning Vue.js
