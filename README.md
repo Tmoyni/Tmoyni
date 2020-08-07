@@ -1,10 +1,10 @@
 ### Triona Moynihan - @Tmoyni 👋
 I'm Triona Moynihan and I am a New York City based full-stack developer with design experience.
 
-<p>
+<div>
   <a href="https://www.linkedin.com/in/trionamoynihan/">
   <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-</p>
+</div>
 
 - 🌱 I’m currently learning Vue.js
 
