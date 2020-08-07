@@ -1,4 +1,4 @@
-### Triona Moynihan - @Tmoyni 👋
+### Triona Moynihan - @Tmoyni
 I'm Triona Moynihan and I am a New York City based full-stack developer with 7+ years of design experience.
 <br>
 
