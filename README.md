@@ -2,6 +2,8 @@
 I'm Triona Moynihan and I am a New York City based full-stack developer with 7+ years of design experience.
 <br>
 
+
+
 - 🌱 I’m currently learning Vue.js
 
 <br>
