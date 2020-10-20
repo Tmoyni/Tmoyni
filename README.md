@@ -4,7 +4,7 @@ I'm Triona Moynihan and I am a New York City based full-stack developer. I am ex
 
 
 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Liquid
 
 <br>
 
