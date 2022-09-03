@@ -1,11 +1,5 @@
 ### Triona Moynihan - @Tmoyni
-I'm Triona Moynihan and I am a New York City based full-stack developer. I am experienced in JavaScript and Ruby-based programming with 7+ years of visual design experience. I'm passionate about Tech, Advertising, and Media Industries and crafting beautiful, maintainable, and engaging applications. 
-<br>
-
-
-
-- 🌱 I’m currently learning Liquid
-
+I'm Triona Moynihan and I am a New York City based UX Engineer.
 <br>
 
 
